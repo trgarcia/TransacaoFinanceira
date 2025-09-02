@@ -85,11 +85,13 @@ Após a refatoração, o projeto:
 - Está organizado de forma escalável e aderente a boas práticas de arquitetura.  
 - Possui cobertura de testes unitários para cenários críticos.
 - Saída gerada:
-              Transação 1 efetuada! Origem=30 | Destino=150
-              Transação 3 efetuada! Origem=100 | Destino=1578
-              Transação 2 efetuada! Origem=1 | Destino=159
-              Transação 4 cancelada: saldo insuficiente.
-              Transação 5 efetuada! Origem=89 | Destino=1889
-              Transação 6 efetuada! Origem=738 | Destino=1249
-              Transação 7 cancelada: saldo insuficiente.
-              Transação 8 efetuada! Origem=588 | Destino=5050
+  ```
+  Transação 1 efetuada! Origem=30 | Destino=150
+  Transação 3 efetuada! Origem=100 | Destino=1578
+  Transação 2 efetuada! Origem=1 | Destino=159
+  Transação 4 cancelada: saldo insuficiente.
+  Transação 5 efetuada! Origem=89 | Destino=1889
+  Transação 6 efetuada! Origem=738 | Destino=1249
+  Transação 7 cancelada: saldo insuficiente.
+  Transação 8 efetuada! Origem=588 | Destino=5050
+  ```
